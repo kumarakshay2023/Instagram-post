@@ -1,3 +1,5 @@
+import chalk from "chalk"
+
 /****
  ** Global error handler function that logs errors and handles different types of Sequelize errors.
  **
