@@ -13,7 +13,7 @@ This repository contains an Express-based API that fetches Instagram posts using
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/instagram-task.git
+   git clone https://github.com/kumarakshay2023/Instagram-post.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -806,5 +806,5 @@ This project is licensed under the ISC License.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Author
-Created by [Your Name](https://github.com/your-username).
+Created by [Akshay kumar](https://github.com/kumarakshay2023).
 
